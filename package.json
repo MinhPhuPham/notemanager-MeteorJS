@@ -1,0 +1,27 @@
+{
+  "name": "note",
+  "version": "1.0.0",
+  "description": "Note management write by Jable JohnSon (Minh Phu)",
+  "main": "index.js",
+  "dependencies": {
+    "babel-runtime": "^6.26.0",
+    "meteor-node-stubs": "^0.2.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MinhPhuPham/notemanager-meteorJS.git"
+  },
+  "keywords": [
+    "Meteor"
+  ],
+  "author": "Jable JohnSon (PMP)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MinhPhuPham/notemanager-meteorJS/issues"
+  },
+  "homepage": "https://github.com/MinhPhuPham/notemanager-meteorJS#readme"
+}
